@@ -7,6 +7,8 @@ author_profile: true
 Working Paper
 ---
 
+* **W. Deng**<sup>*</sup>, Q. Feng<sup>*</sup>, G. Karagiannis, G. Lin, F. Liang. [Accelerating Convergence of Replica Exchange Stochastic Gradient MCMC via Variance Reduction](https://openreview.net/pdf?id=iOnhIy-a-0n). The 9th International Conference on Learning Representations (**ICLR 2021**). [\[code\]](https://github.com/WayneDW/Variance_Reduced_Replica_Exchange_SGMCMC) [\[video\]](https://studio.slideslive.com/web_recorder/share/34145?s=9a76d5cb-b294-40a1-8987-bc44fa80d61e)
+
 * **Equilibrium in M/M/1 Queues with Full and Partial Breakdowns**\\
   [[paper]](https://jinke19.github.io/jinke.github.io/files/HDP_restoration (1).pdf) [[code]](https://jinke19.github.io/jinke.github.io/files/HDP_restoration (1).pdf)
 
