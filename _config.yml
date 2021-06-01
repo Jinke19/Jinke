@@ -11,9 +11,9 @@ title                    : "Jinke Li"
 title_separator          : "-"
 name                     : &name "Jinke Li"
 description              : &description "Master Student at JHU"
-url                      : https://jinke19.github.io/jinke.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jinke19.github.io/jinke # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jinke19/jinke.github.io"
+repository               : "Jinke19/jinke"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "jli300@jhu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
