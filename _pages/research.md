@@ -8,10 +8,13 @@ Working Paper
 ---
 
 * **Equilibrium in M/M/1 Queues with Full and Partial Breakdowns**\\
-  [[paper]](https://jinke19.github.io/jinke.github.io/files/HDP_Image.pdf) [[code]](https://jinke19.github.io/jinke.github.io/files/HDP_Image.pdf)
+  [[paper]](https://jinke19.github.io/jinke.github.io/files/HDP_Image.pdf) 
+  
+* **Path Palyer Game with Capacity Bound on Each Edge**\\
+  [[paper]](https://jinke19.github.io/jinke.github.io/files/HDP_Image.pdf) 
   
 * **A Nonparametric Bayesian Model for Image Restoration**\\
-  [[paper]](https://jinke19.github.io/jinke.github.io/files/Image.pdf)
+  [[paper]](https://jinke19.github.io/jinke.github.io/files/Image.pdf) [[code]](https://jinke19.github.io/jinke.github.io/files/HDP_Image.pdf)
 
 
 Preprints
