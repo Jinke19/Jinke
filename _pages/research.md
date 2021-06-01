@@ -8,6 +8,10 @@ Working Paper
 ---
 
 * **W. Deng**<sup>*</sup>, Q. Feng<sup>*</sup>, G. Karagiannis, G. Lin, F. Liang. [Accelerating Convergence of Replica Exchange Stochastic Gradient MCMC via Variance Reduction](https://openreview.net/pdf?id=iOnhIy-a-0n). The 9th International Conference on Learning Representations (**ICLR 2021**). [\[code\]](https://github.com/WayneDW/Variance_Reduced_Replica_Exchange_SGMCMC) [\[video\]](https://studio.slideslive.com/web_recorder/share/34145?s=9a76d5cb-b294-40a1-8987-bc44fa80d61e)
+* * **SPSA Method Using Diagonalized Hessian Estimate**\\
+  **Shiqing Sun**, and James C. Spall,\\
+  _2019 IEEE 58th Conference on Decision and Control (CDC)_, pp.4922-4927. IEEE, 2019\\
+  [[paper]](https://ieeexplore.ieee.org/document/9029707)
 
 * **Equilibrium in M/M/1 Queues with Full and Partial Breakdowns**\\
   [[paper]](https://jinke19.github.io/jinke.github.io/files/HDP_restoration (1).pdf) 
