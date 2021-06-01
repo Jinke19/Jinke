@@ -4,8 +4,12 @@ permalink: /research/
 author_profile: true
 ---
 
-Publications
+Working Paper
 ---
+
+* **Equilibrium in M/M/1 Queues with Full and Partial Breakdowns**\\
+  [[paper]](https://jinke19.github.io/jinke.github.io/files/HDP_restoration (1).pdf)
+
 * **A Nonparametric Bayesian Model for Image Restoration**\\
   [[paper]](https://jinke19.github.io/jinke.github.io/files/HDP_restoration (1).pdf)
 
