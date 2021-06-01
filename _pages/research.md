@@ -7,8 +7,6 @@ author_profile: true
 Publications
 ---
 * **A Nonparametric Bayesian Model for Image Restoration**\\
-  **Shiqing Sun**, and James C. Spall,\\
-  _2019 IEEE 58th Conference on Decision and Control (CDC)_, pp.4922-4927. IEEE, 2019\\
   [[paper]](https://jinke19.github.io/jinke.github.io/files/HDP_restoration (1).pdf)
 
 
