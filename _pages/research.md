@@ -12,7 +12,7 @@ Working Paper
   [[paper]](https://ieeexplore.ieee.org/document/9029707)
 
 * **Equilibrium in M/M/1 Queues with Full and Partial Breakdowns**\\
-  [[paper]](https://jinke19.github.io/jinke.github.io/files/HDP_restoration (1).pdf) 
+  [[paper]](https://ieeexplore.ieee.org/document/9029707) [[code]](https://ieeexplore.ieee.org/document/9029707)
   
 * **A Nonparametric Bayesian Model for Image Restoration**\\
   [[paper]](https://jinke19.github.io/jinke.github.io/files/HDP_restoration (1).pdf)
